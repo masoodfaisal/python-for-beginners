@@ -58,9 +58,14 @@ prime_numbers = [1,2,3,5,7,11,13]
 # 2 is at locaton 2
 # 3 is at locaton 3
 # 5 is at location 4
-# do it with the fol loop (home work)
+# Homework - do it with the fol loop (home work)
 
 
 # easier is
 for location, prime_number in enumerate(prime_numbers):
     print(f"{prime_number} is at location {location}")
+
+
+# Homwwork - find the highest number in a list of numbers
+
+
