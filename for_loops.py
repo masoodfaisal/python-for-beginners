@@ -3,6 +3,9 @@
 list_of_students = ["Anisa", "Misby", "Omer", "Ammar"]
 print(list_of_students)
 
+# KEYWORD : for 
+# student : Variable 
+# KEYWORD : in
 for student in list_of_students:
     print(student)
     print(f"Student is {student}")
